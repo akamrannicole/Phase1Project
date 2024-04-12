@@ -36,9 +36,7 @@
     --black: hsl(0, 0%, 0%);
     --opal: hsl(180, 20%, 62%);
   
-    /**
-     * typography
-     */
+    
   
     --ff-nunito-sans: "Nunito Sans", sans-serif;
     --ff-poppins: "Poppins", sans-serif;
@@ -134,13 +132,6 @@
     border-left: 2px solid var(--white);
   }
   
-  
-  
-  
-  
-  /*-----------------------------------*\
-    #REUSED STYLE
-  \*-----------------------------------*/
   
   .container { padding-inline: 15px; }
   
@@ -265,13 +256,6 @@
   
   .has-scrollbar::-webkit-scrollbar-button { width: 15%; }
   
-  
-  
-  
-  
-  /*-----------------------------------*\
-    #HEADER
-  \*-----------------------------------*/
   
   .header {
     position: relative;
