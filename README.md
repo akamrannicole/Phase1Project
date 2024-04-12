@@ -45,11 +45,10 @@ http://localhost:3000
 [Git](gh-pages link)
 
 ## Technologies used
-Github
-Javascript
-Html
-CSS
-Bootstrap
+JavaScript: Used for dynamic functionality and interactivity.
+HTML: Provides the structure and content of web pages.
+CSS: Styles the website for enhanced visual appeal and user experience.
+Bootstrap: Utilized for responsive design and pre-built components.
 
 ## Support and contact details
 https://github.com/akamrannicole
