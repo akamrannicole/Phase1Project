@@ -5,7 +5,7 @@
 #### By SHELVIN AKAMURAN
 
 ## Description
-It's a folder with three files.
+The project is a marketing Real Estate Website which was created using JavaScript , CSS and html.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
