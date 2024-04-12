@@ -51,9 +51,15 @@ CSS: Styles the website for enhanced visual appeal and user experience.
 Bootstrap: Utilized for responsive design and pre-built components.
 
 ## Support and contact details
-https://github.com/akamrannicole
+If you encounter any issues, have questions, or need assistance with the Real Estate Marketing Website project, please don't hesitate to reach out:
+
+GitHub Issues: Feel free to open an issue on the GitHub repository if you encounter any bugs, want to request a new feature, or have suggestions for improvements.
+
+Email: You can also contact the project maintainer directly via the following email: 
+( shelvin.akamuran@student.moringaschool.com )
+for any inquiries or assistance.
 
 ### License
-This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the License file for more information.
+This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 Copyright (c) 2024.
