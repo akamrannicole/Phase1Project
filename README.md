@@ -2,7 +2,7 @@
 
 #### Date, 12/4/2024
 
-#### By SHELVIN AKAMURAN
+#### AUTHOR : SHELVIN AKAMURAN
 
 ## Description
 REAL ESTATE MARKETING WEBSITE
@@ -15,10 +15,18 @@ Responsive Design
 Contact Real Estate
 
 ## Installation
-Creat a new repository from Github 
 
 ## Installation Requirements
-Git
+
+Installation Requirements
+Before running the Real Estate Marketing Website project locally, ensure that you have the following prerequisites installed on your machine:
+
+Node.js: Make sure you have Node.js installed. You can download and install it from nodejs.org.
+
+npm: npm is the default package manager for Node.js. It's typically installed along with Node.js. You can check if it's installed by running npm -v in your terminal/command prompt.
+
+Git: Git is used for version control and collaboration. Make sure you have Git installed. You can download and install it from git-scm.com.
+
 
 ### Installation instruction
 To run the following project locally run the following instructions :
