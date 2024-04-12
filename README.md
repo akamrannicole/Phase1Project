@@ -5,17 +5,14 @@
 #### By SHELVIN AKAMURAN
 
 ## Description
-Real Estate Marketing Website
+REAL ESTATE MARKETING WEBSITE
 This project is a real estate marketing website designed to showcase properties and provide essential information for potential buyers and sellers. Leveraging JavaScript, HTML, CSS, and Bootstrap, the website offers a visually appealing and user-friendly interface to browse available properties, view detailed listings, and connect with real estate agents.
 
-Key Features:
-Property Listings: Browse a diverse range of properties, including homes, apartments, and commercial spaces, with detailed descriptions, images, and pricing information.
-
-Search Functionality: Utilize search filters to narrow down property listings based on criteria such as location, price range, property type, and amenities.
-
-Responsive Design: Enjoy a seamless browsing experience across various devices, including desktops, tablets, and mobile phones, thanks to responsive design principles and Bootstrap framework.
-
-Contact Real Estate Agents: Easily connect with real estate agents or property owners via integrated contact forms or provided contact information for inquiries, scheduling viewings, or making offers.
+KEY FEATURES
+Property Listings 
+Search Functionality:
+Responsive Design
+Contact Real Estate
 
 ## Installation
 Creat a new repository from Github 
