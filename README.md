@@ -54,5 +54,6 @@ Bootstrap: Utilized for responsive design and pre-built components.
 https://github.com/akamrannicole
 
 ### License
-The content of this site is licensed under the MIT license
+This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the License file for more information.
+
 Copyright (c) 2024.
