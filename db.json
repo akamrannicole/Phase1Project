@@ -1,0 +1,32 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Modern Apartment in City Center",
+        "address": "123 Main Street, Cityville",
+        "price": 200000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "description": "A modern apartment located in the heart of the city. Close to all amenities and public transportation."
+      },
+      {
+        "id": 2,
+        "title": "Spacious Family Home with Garden",
+        "address": "456 Elm Street, Suburbia",
+        "price": 350000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "description": "A spacious family home with a large garden, perfect for kids and pets. Quiet neighborhood with good schools nearby."
+      },
+      {
+        "id": 3,
+        "title": "Luxury Penthouse with Stunning Views",
+        "address": "789 Highrise Avenue, Skyline City",
+        "price": 1000000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "description": "A luxurious penthouse offering breathtaking views of the city skyline. High-end finishes and amenities."
+      }
+    ]
+  }
+  
