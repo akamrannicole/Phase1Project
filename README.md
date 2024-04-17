@@ -50,7 +50,7 @@ OPEN YOUR BROWSER AND VISIT:
 http://localhost:3000
 
 # Live Link
-[Git](gh-pages link)
+Github pages - 
 
 ## Technologies used
 JavaScript: Used for dynamic functionality and interactivity.
